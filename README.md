@@ -11,7 +11,8 @@ Achieved an 80% recovery rate of injectors.
 ## Hardware: Arduino Uno R3
 
 <img src="https://github.com/user-attachments/assets/17ce79e3-9b24-4369-aebf-bab8a9e78a96" width="480">
-![61AvdQOxFzL _UF1000,1000_QL80_](https://github.com/user-attachments/assets/17ce79e3-9b24-4369-aebf-bab8a9e78a96  = 250x250)
-
 
 ## Software: C++
+
+Disponibile nella cartella "Arduino" lo sketch di funzionamento della scheda di prototipazione
+utilizzato per il funzionamento del dispositivo. 
