@@ -22,5 +22,8 @@ After the internal unlocking procedure, they are cleaned and reused in a product
 
 ## Software: C++
 
-Disponibile nella cartella "Arduino" lo sketch di funzionamento della scheda di prototipazione
+IT: Disponibile nella cartella "Arduino" lo sketch di funzionamento della scheda di prototipazione
 utilizzato per il funzionamento del dispositivo. 
+
+EN: The sketch for operating the prototyping board used to operate the device
+is available in the “Arduino” folder.
