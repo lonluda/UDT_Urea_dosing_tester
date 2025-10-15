@@ -12,7 +12,7 @@ Achieved an 80% recovery rate of injectors.
 
 <img src="https://github.com/user-attachments/assets/17ce79e3-9b24-4369-aebf-bab8a9e78a96" width="480">
 
-<img src="https://github.com/user-attachments/assets/ecf4659f-e57b-4891-89f0-4cf34973f807" width="370">
+<img src="https://github.com/user-attachments/assets/ecf4659f-e57b-4891-89f0-4cf34973f807" width="365">
 
 IT: Elettrovalvole che prima venivano destinate allo smaltimento.
 Dopo la procedura di sbloccaggio interno, vengono pulite e riutilizzate per in un processo di reman del prodotto.
