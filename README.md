@@ -12,6 +12,11 @@ Achieved an 80% recovery rate of injectors.
 
 <img src="https://github.com/user-attachments/assets/17ce79e3-9b24-4369-aebf-bab8a9e78a96" width="480">
 
+Elettrovalvole che prima venivano mandate allo smaltimento :
+
+<img src="[https://github.com/user-attachments/assets/17ce79e3-9b24-4369-aebf-bab8a9e78a96](https://github.com/user-attachments/assets/ecf4659f-e57b-4891-89f0-4cf34973f807)" width="480">
+
+
 ## Software: C++
 
 Disponibile nella cartella "Arduino" lo sketch di funzionamento della scheda di prototipazione
