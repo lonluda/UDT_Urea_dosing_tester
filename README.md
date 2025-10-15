@@ -10,7 +10,7 @@ Achieved an 80% recovery rate of injectors.
 
 ## Hardware: Arduino Uno R3
 
-![61AvdQOxFzL _UF1000,1000_QL80_](https://github.com/user-attachments/assets/17ce79e3-9b24-4369-aebf-bab8a9e78a96)
+![61AvdQOxFzL _UF1000,1000_QL80_](https://github.com/user-attachments/assets/17ce79e3-9b24-4369-aebf-bab8a9e78a96  = 250x250)
 
 
 ## Software: C++
